@@ -21,23 +21,27 @@ Ultimately, my goal was to create a functional web app that could be used for va
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+I created two web pages for the web app. The first page, which can be accessed by going to "http://127.0.0.1:8000/", is the main page of the app. It displays a list of tasks that need to be done. This list is dynamic, meaning it can change based on the tasks that are added or completed. Users can add new tasks or mark existing ones as complete.
+
+The second page, which can be accessed by going to "http://127.0.0.1:8000/admin/", is the administrative page of the app. It allows the app administrator to manage the tasks and users of the app. This page is also dynamic, meaning the administrator can add, edit, or delete tasks and users as needed.
+
+To transition between the two pages, users can click on links or buttons on the page that take them to the other page. For example, from the main page, users can click on a link that takes them to the administrative page by going to "http://127.0.0.1:8000/admin/". Similarly, from the administrative page, users can click on a link that takes them back to the main page by going to "http://127.0.0.1:8000/".
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Git, Visual Studio Code, Django, Heroku, Python.
 
-{Describe the programming language that you used and any libraries.}
+The programming language used to develop the software is Python, with the Django web framework. In addition, Git was used for version control, Visual Studio Code was used as the integrated development environment (IDE), and Heroku was used as the deployment platform. Various Python libraries were used throughout the development process, including Pillow for image handling, and psycopg2 for database connectivity with PostgreSQL.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.djangoproject.com/)
+* [Web Site Name](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I will be making more web apges and personalising it.
+* I will be adding links to sites for help (example: workout, groceries etc).
+* I will be deploying it on Heroku.
