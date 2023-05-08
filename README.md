@@ -41,7 +41,7 @@ The programming language used to develop the software is Python, with the Django
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * I will be making more web apges and personalising it.
 * I will be adding links to sites for help (example: workout, groceries etc).
 * I will be deploying it on Heroku.
