@@ -36,8 +36,8 @@ The programming language used to develop the software is Python, with the Django
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.djangoproject.com/)
-* [Web Site Name](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
+* [Django](https://www.djangoproject.com/)
+* [Youtube - Django tutorial](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
 
 # Future Work
 
